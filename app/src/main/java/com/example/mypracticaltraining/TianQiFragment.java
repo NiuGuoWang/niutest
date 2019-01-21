@@ -90,4 +90,5 @@ public class TianQiFragment extends Fragment implements Iview {
             Toast.makeText(getContext(), tips, Toast.LENGTH_SHORT).show();
         }
     }
+
 }
